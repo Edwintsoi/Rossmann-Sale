@@ -3,7 +3,7 @@
 This is my 1st Data Science's Group Project
 
 
-Rossman Store Sales.pdf is Report!!!
+Rossman Store Sales.pdf is the report!!!
 
 
 
